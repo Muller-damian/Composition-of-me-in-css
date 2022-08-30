@@ -1,0 +1,36 @@
+* {
+    background-color: rgb(81, 60, 60);
+}
+h1 {
+    color:burlywood
+}
+h2 {
+    color: greenyellow;
+}
+h3 {
+    color:  blue
+}
+p {
+    color: red
+}
+h4 {
+    color: indigo;
+}
+#list1 {
+    color:blue
+}
+#list2 {
+    color:pink
+}
+.type1 {
+    color:saddlebrown
+}
+.type2 {
+    color:rosybrown
+}
+.type3 {
+    color: green
+}
+.type4 {
+    color : black
+}
